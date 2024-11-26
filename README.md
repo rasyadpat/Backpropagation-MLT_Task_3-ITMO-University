@@ -1,3 +1,11 @@
+ # <ins>**Machine Learning Technologies</ins> - Task 3**: Backpropagation Algorithm
+
+__ITMO University__, St. Petersburg, Russia
+- Name    : Rahman, Rasyad Rifatan <br>
+- ID      : 458029
+
+---
+
 Apply the logistic regression method using the functions in the notebook «Logistic Regression as a Neural Network – BP alg.ipynb” to predict the biological response of a molecule
 data: bioresponse.csv
 
